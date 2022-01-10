@@ -1,0 +1,1 @@
+cmd_/home/pi/ELDD_EXAM/q1/char_driver.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/ELDD_EXAM/q1/char_driver.ko /home/pi/ELDD_EXAM/q1/char_driver.o /home/pi/ELDD_EXAM/q1/char_driver.mod.o;  true
